@@ -1,3 +1,4 @@
 simple-clocker/SystemVerilogLexer.g4
 simple-clocker/SystemVerilogParser.g4
 simple-clocker/clock.sv.*
+litex-sim-verilator-heap-use-after-free/unified.v.*
