@@ -1,3 +1,4 @@
+// https://github.com/antmicro/verilator-dynamic-scheduler-examples/blob/main/examples/clock/clock.sv
 /* verilator lint_off INFINITELOOP */
 module t;
    logic clk;
